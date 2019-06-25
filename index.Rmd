@@ -85,9 +85,9 @@ class: inverse, center, middle
 
 ## Knowing your `r fa("questions", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")`
 
-Using data science for social good requires **impact-based projects** built on **adequate data**.
+Using data science for social good requires <b>impact-based projects</b> that are built on <b>adequate data</b>.
 
-But above all, we need the **expertise of social data scientists** who ask the following questions:
+But above all, we need the <b>expertise of social data scientists</b> who ask the following questions:
 
 --
 
@@ -103,7 +103,7 @@ But above all, we need the **expertise of social data scientists** who ask the f
 
 --
 
-4. What will our final product look like? How can we implement it technically?
+4. What should our final product look like? How can we implement it technically?
 
 --
 
@@ -111,7 +111,7 @@ But above all, we need the **expertise of social data scientists** who ask the f
 
 --
 
-6. And last, but certainly not least: What can potentially go wrong? 💥
+6. And last, but certainly not least: What could potentially go wrong? 💥
 
 ---
 class: inverse, center, middle
@@ -123,11 +123,11 @@ class: inverse, center, middle
 ## [DataKind](https://www.datakind.org/): Home fire risk map
 
 .pull-left[
-- **Context:** The Home Fire Campaign by the American Red Cross aims to reduce the number of deaths and injuries caused by home fires
+- <b>Context:</b> The Home Fire Campaign by the American Red Cross aims to reduce the number of deaths and injuries caused by home fires
 
-- **Objective:** Identify high-risk neighborhoods to target for in-home fire safety education and free smoke alarms
+- <b>Objective:</b> Identify high-risk neighborhoods to target for in-home fire safety education and free smoke alarms
 
-- **Approach:** Use ML techniques that leverage data from multiple sources to predict aggregate neighborhood home fire risk
+- <b>Approach:</b> Use ML techniques that leverage data from multiple sources to predict aggregate neighborhood home fire risk
 ]
 
 .pull-right[
@@ -148,11 +148,11 @@ Link: [Home Fire Risk Map](https://home-fire-risk.github.io/smoke_alarm_map/)
 ## [CorrelAid](https://correlaid.org/): Online movements
 
 .pull-left[
-- **Context:** Social activist Ali Can launched the two hashtags #MeTwo and #We2 to draw attention to racial discrimination and multi-faceted racial identities
+- <b>Context:</b> Social activist Ali Can launched the two hashtags #MeTwo and #We2 to draw attention to racial discrimination and multi-faceted racial identities
 
-- **Objective:** Evaluate the content, key actors, and temporal dynamics of the Twitter campaigns to assess their potential and limitations
+- <b>Objective:</b> Evaluate the content, key actors, and temporal dynamics of the Twitter campaigns to assess their potential and limitations
 
-- **Approach:** Use NLP techniques and social network analysis to identify important topics and influential actors
+- <b>Approach:</b> Use NLP techniques and social network analysis to identify important topics and influential actors
 ]
 
 .pull-right[
@@ -168,11 +168,11 @@ Link: [Home Fire Risk Map](https://home-fire-risk.github.io/smoke_alarm_map/)
 ## [DSSG Berlin](https://dssg-berlin.org/): SchulePlus
 
 .pull-left[
-- **Context:** SchulePlus matches high school students with internships to help them figure out their professional future
+- <b>Context:</b> SchulePlus matches high school students with internships to help them figure out their professional future
 
-- **Objective:** Understand the supply and demand for internships in the different states of Germany
+- <b>Objective:</b> Understand the supply and demand for internships in the different states of Germany
 
-- **Approach:** Correlate searches for internships with the job posts in the internship database
+- <b>Approach:</b> Correlate searches for internships with the job posts in the internship database
 ]
 
 .pull-right[
@@ -189,11 +189,11 @@ Link: [Home Fire Risk Map](https://home-fire-risk.github.io/smoke_alarm_map/)
 ## [Lecturers without Borders](https://scied.network/): Networks
 
 .pull-left[
-- **Context:** Lecturers without borders connects educational networks and scientists who use their travel opportunities to give free lectures to local students in developing countries
+- <b>Context:</b> Lecturers without borders connects educational networks and scientists who use their travel opportunities to give free lectures to local students in developing countries
 
-- **Objective:** Analyze how social initiatives are working together in different parts of the world
+- <b>Objective:</b> Analyze how social initiatives are working together in different parts of the world
 
-- **Approach:** Build database of schools which can host scientists
+- <b>Approach:</b> Build database of schools which can host scientists
 ]
 
 .pull-right[
@@ -227,4 +227,4 @@ class: center, middle
 
 Slides made with `r fa("heart", fill = "#2c3e50e")` and R [*xaringan*](https://github.com/yihui/xaringan).
 
-Use cases by **[DataKind](https://www.datakind.org/)**, **[CorrelAid](https://correlaid.org/)**, **[DSSG Berlin](https://dssg-berlin.org/)**,<br> and **[Lecturers without Borders](https://sites.google.com/view/fellowshipresultsliubov/research-projects/lecturers-without-borders-researchers-mobility)**.
+Use cases by <b>[DataKind](https://www.datakind.org/)</b>, <b>[CorrelAid](https://correlaid.org/)</b>, <b>[DSSG Berlin](https://dssg-berlin.org/)</b>,<br> and <b>[Lecturers without Borders](https://sites.google.com/view/fellowshipresultsliubov/research-projects/lecturers-without-borders-researchers-mobility)</b>.
