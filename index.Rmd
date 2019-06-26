@@ -67,7 +67,7 @@ knitr::include_graphics("images/youtube-recommender.png")
 ---
 class: center, middle
 
-## <font size='9'>But there's more to it. We need to democratize the potential of data science.</font>
+## <font size='9'>But there's more to it than that. We need to democratize the potential of data science.</font>
 
 ---
 
@@ -206,7 +206,7 @@ Link: [Home Fire Risk Map](https://home-fire-risk.github.io/smoke_alarm_map/)
 
 ---
 
-## Want to become a social data scientist?
+## Want to become more social?
 
 .pull-left[
 ```{r, fig.align="center", echo=FALSE}
