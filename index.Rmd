@@ -201,7 +201,7 @@ Link: [Home Fire Risk Map](https://home-fire-risk.github.io/smoke_alarm_map/)
 ]
 
 .center[
-`r fa("home", fill = "#2c3e50e")` scied.network  `r fa("twitter", fill = "#2c3e50e")` @NetworkScied  `r fa("facebook", fill = "#2c3e50e")` Lecturerswirthoutborders
+`r fa("home", fill = "#2c3e50e")` scied.network  `r fa("twitter", fill = "#2c3e50e")` @NetworkScied  `r fa("facebook", fill = "#2c3e50e")` Lecturerswithoutborders
 ]
 
 ---
