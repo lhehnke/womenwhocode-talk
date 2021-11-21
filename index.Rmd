@@ -83,7 +83,7 @@ class: inverse, center, middle
 
 ---
 
-## Knowing your `r fa("questions", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")`
+## Knowing your `r fa("question", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")``r fa("question", fill = "#2c3e50e")`
 
 Using data science for social good requires <b>impact-based projects</b> that are built on <b>adequate data</b>.
 
@@ -91,7 +91,7 @@ But above all, we need the <b>expertise of social data scientists</b> who ask th
 
 --
 
-1. What impact do we want to have with our project? What is the target group?
+1. What impact do we want to have with our project? Who is the target group?
 
 --
 
